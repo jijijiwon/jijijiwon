@@ -4,8 +4,8 @@
 </p>
 
 <p align='center'>
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=jijijiwon&show_icons=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jijijiwon&layout=compact">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jijijiwon&show_icons=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jijijiwon&layout=compact">
 </p>
 
 <!--
