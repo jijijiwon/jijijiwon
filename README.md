@@ -1,4 +1,12 @@
-## Hi there 👋
+
+<p align='center'>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=jijijiwon&fontSize=90&animation=fadeIn&fontAlignY=38&desc=developer&descAlignY=51&descAlign=62"/>
+</p>
+
+<p align='center'>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=jijijiwon&show_icons=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jijijiwon&layout=compact">
+</p>
 
 <!--
 **jijijiwon/jijijiwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
